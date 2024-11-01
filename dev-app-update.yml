@@ -1,0 +1,5 @@
+owner: unAmic0
+repo: auto-update-check
+provider: github
+# url: https://example.com/auto-updates
+# updaterCacheDirName: auto-update-check-updater
